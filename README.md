@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Java
 - 📫 Contate-me no email: felipe.aguiar96@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/felipeaguiarlps">
