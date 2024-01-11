@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java para backend e Python para dados
 - 📫 Contate-me no email: felipe.aguiar96@gmail.com
 
 <div align="center">
