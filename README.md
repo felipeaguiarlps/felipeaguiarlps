@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Estudando Java para backend e Python para dados
+- 🌱 Estudando para ser Desenvolvedor Full Stack
 - 📫 Contate-me no email: felipe.aguiar96@gmail.com
 
 <div align="center">
