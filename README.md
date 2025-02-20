@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Continue aprimorando suas habilidades
+- 🌱 Desenvolvedor FullStack Junior
 - 📫 Contate-me no email: felipe.aguiar96@gmail.com
 
 <div align="center">
